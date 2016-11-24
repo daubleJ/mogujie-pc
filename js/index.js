@@ -1,0 +1,1 @@
+var banner1 = new Banner('_banner','./data.json',2000);
